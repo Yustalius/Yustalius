@@ -7,7 +7,7 @@
 
 ---
 ### Статистика профиля:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yustalius&theme=github_dark_dimmed&show_icons=true)
 
 
 

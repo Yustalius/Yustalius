@@ -1,5 +1,5 @@
 
-<h1 align="center"> Приветствую, я Александр </h1>
+<h1 align="center"> Приветствую, я Владислав</h1>
 <h3 align="center"> QA <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
 
 - 🔭 Пишу автотесты на **Java**
